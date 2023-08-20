@@ -4,3 +4,7 @@ spring:
     name: spring-cloud-gateway-service
   server:
     port: 8080
+  cloud:
+    gateway:
+      routes:
+        # Define your gateway routes here  
