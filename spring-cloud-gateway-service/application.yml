@@ -1,1 +1,6 @@
-
+# Gateway configuration
+spring:
+  application:
+    name: spring-cloud-gateway-service
+  server:
+    port: 8080
