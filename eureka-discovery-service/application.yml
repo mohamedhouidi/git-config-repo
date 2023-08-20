@@ -1,1 +1,6 @@
-
+# Eureka configuration
+spring:
+  application:
+    name: eureka-discovery-service
+  server:
+    port: 8761
